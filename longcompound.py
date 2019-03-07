@@ -1,6 +1,5 @@
 # longcompound.py
 # Raunak Anand
-# ECS 36A Winter 2019
 # Calculation of atomic weight of chemical compounds entered by user
 # along with names of elements
 
